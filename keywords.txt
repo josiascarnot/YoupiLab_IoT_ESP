@@ -1,0 +1,32 @@
+# Syntax Coloring Map For YoupiLabEsp8266
+
+# Datatypes (KEYWORD1)
+ YoupiLab_IoT_ESP   KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+executeAction KEYWORD2
+sendData KEYWORD2
+dataCount KEYWORD2
+connectToWifi KEYWORD2
+getResourcesCurrentVersion KEYWORD2
+getResourcesLatestVersion KEYWORD2
+getFirmwareCurrentVersion KEYWORD2
+getFirmwareLatestVersion KEYWORD2
+deviceIsUpToDate KEYWORD2
+OTAUpdate KEYWORD2
+printToWebSerial KEYWORD2
+onNewWebSerialCommand KEYWORD2
+saveOtaError KEYWORD2
+onUpdateStarted KEYWORD2
+onUpdateFinished KEYWORD2
+onUpdateProgress KEYWORD2
+onUpdateError KEYWORD2
+onResourcesUpdateProgress KEYWORD2
+onResourcesUpdateError KEYWORD2
+setFileSystem KEYWORD2
+rebootAfterUpdate KEYWORD2
+getLastError KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
